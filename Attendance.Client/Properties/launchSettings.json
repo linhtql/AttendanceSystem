@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Attendance.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "-u gg.hh@avepoint.com test_gg"
+    }
+  }
+}
